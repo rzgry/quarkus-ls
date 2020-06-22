@@ -255,7 +255,7 @@
   <modules>
     <module>com.redhat.microprofile.jdt.quarkus</module>
     <module>com.redhat.microprofile.jdt.quarkus.test</module>
-    <!-- <module>com.redhat.microprofile.jdt.quarkus.site</module> -->
+    <module>com.redhat.microprofile.jdt.quarkus.site</module>
   </modules>
   
 </project>
